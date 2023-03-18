@@ -7,8 +7,7 @@ To install go-ipinfo, run the following command:
 
  
 ``` bash
-go get github.com/<username>/go-ipinfo
-Replace <username> with your GitHub username.
+go get github.com/shakirck/go-ipinfo
 ```
 ## Usage
 To use go-ipinfo, run the following command:
